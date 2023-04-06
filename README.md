@@ -1,6 +1,4 @@
-# Pixi-Core
-#  Built With TypeScript PixiJS 
-#  Version v1.0.0
-# Authors Aslı TUZCUOĞLU
+## v1.0.0
+###  Built With TypeScript PixiJS 
 
 
